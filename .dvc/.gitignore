@@ -1,3 +1,11 @@
 /config.local
 /tmp
 /cache
+
+venv/
+.ipynb_checkpoints/
+
+*.json
+*.csv
+*.pkl
+.gitignore
